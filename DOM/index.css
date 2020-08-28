@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+  margin: auto;
+  background-color: #f4f4f4;
+}
+h1{
+  font-size:3.5rem;
+}
+.info{
+  background-color: #5eaaa8;
+  margin: 1% 5% 3%;
+  padding:5% 0 3%;
+  border-radius: 5mm;
+}
+.submit{
+  margin:auto;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-top: 3%;
+  margin-bottom: 0;
+}
+.left-text{
+  text-align: left;
+  font-family: 'Tinos', serif;
+  background-color: #3B6978;
+  border-left-width: thick black;
+}
+.right-text{
+  text-align: left;
+  font-family: 'Poppins', sans-serif;
+  background-color: #84A9AC;
+}
+.datalist{
+  margin: 1% 5% 3%;
+}
+hr{
+  border-width: medium;
+  margin: 0;
+  border-color: #E4E3E3;
+}
